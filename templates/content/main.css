@@ -1,0 +1,34 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+#nav-logo {
+	font-size: 75px;
+	color: white;
+	padding-right: 15%;
+	padding-left: 15%;
+}
+#nav-wrap {
+	height: 150px;
+	width: 100%;
+	background-color: green;
+}
+#nav-top {
+	background-color: #ECECFF;
+}
+#nav-bottom {
+	background-color: #ECECFF;
+}
+#left-nav {
+	float: left;
+	border: 1px solid #DDDDAA;
+	background-color: #FFFFCC;
+}
+#content {
+	background-color: #DDDDDD;
+	padding: 10px;
+	min-height: 100px;
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+}
