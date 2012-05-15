@@ -6,6 +6,7 @@ A PHP framework for quick and manageable data applications
 ## Structure ##
 
 There are 4 classes of objects:
+
 1.  The __Framework__ object simply decides, based http request information, what page, template, etc. to use
 2.  __Pages__ just are unique "Activities" (as they are called in android), which assign modules to positions on the template
 3.  __Modules__ define ways of displaying/managing pieces of information
